@@ -1,4 +1,4 @@
-# Hi I am Stuti!
+# Hi, I am Stuti!
 I am currently working on building my portfolio with projects in Python, Java, and Linux, and exploring data analysis tools and web development frameworks.<br>I am looking to collaborate on open-source projects, innovative web development ideas, and student-led initiatives that involve creative problem-solving or data-driven insights.<br>I am looking for help with improving my Git and GitHub skills, mastering advanced Linux commands, and exploring new technologies like cloud computing or machine learning.<br>I am currently learning advanced programming concepts in Python and C, Linux utilities, frameworks for web development, and the Google Data Analytics course to gain insights into data cleaning, visualization, and analysis.<br>Ask me about programming basics, problem-solving techniques, or anything related to Python, Java, C, or Linux. I also enjoy discussing time management and study techniques for CS students.<br>Fun fact I love dancing
 
 
