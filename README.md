@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/stuti.jpg" width="150" style="border-radius:50%;">
+</p>
+
+
+
 # 👋 Hi, I’m Stuti Jha
 
 I’m a **Computer Science student at Toronto Metropolitan University (TMU)** with a strong interest in **software development, data analysis, and applied AI** in regulated and data-sensitive environments such as **financial services**.
