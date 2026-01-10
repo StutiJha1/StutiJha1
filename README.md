@@ -1,9 +1,11 @@
 <table>
   <tr>
-    <td width="150">
-      <img src="assets/stuti.jpg" width="150" style="border-radius:50%;">
+    <td width="160" valign="top">
+      <div align="center">
+        <img src="assets/stuti.jpg" width="150" style="border-radius:50%; display:block;">
+      </div>
     </td>
-    <td>
+    <td valign="top">
       <h1>👋 Hi, I’m Stuti Jha</h1>
       <p>
         I’m a <b>Computer Science student at Toronto Metropolitan University (TMU)</b> with a strong interest in <b>software development, data analysis, and applied AI</b> in regulated and data-sensitive environments such as <b>financial services</b>.<br><br>
@@ -12,6 +14,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ---
