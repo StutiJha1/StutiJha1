@@ -1,14 +1,18 @@
-<p align="center">
-  <img src="assets/stuti.jpg" width="150" style="border-radius:50%;">
-</p>
+<table>
+  <tr>
+    <td width="150">
+      <img src="assets/stuti.jpg" width="150" style="border-radius:50%;">
+    </td>
+    <td>
+      <h1>👋 Hi, I’m Stuti Jha</h1>
+      <p>
+        I’m a <b>Computer Science student at Toronto Metropolitan University (TMU)</b> with a strong interest in <b>software development, data analysis, and applied AI</b> in regulated and data-sensitive environments such as <b>financial services</b>.<br><br>
+        I focus on building <b>well-documented, interpretable, and practical projects</b> using Python, C++, and Linux, and I enjoy applying technical concepts to <b>real-world decision-making problems</b>.
+      </p>
+    </td>
+  </tr>
+</table>
 
-
-
-# 👋 Hi, I’m Stuti Jha
-
-I’m a **Computer Science student at Toronto Metropolitan University (TMU)** with a strong interest in **software development, data analysis, and applied AI** in regulated and data-sensitive environments such as **financial services**.
-
-I focus on building **well-documented, interpretable, and practical projects** using Python, C++, and Linux, and I enjoy applying technical concepts to real-world decision-making problems.
 
 ---
 
